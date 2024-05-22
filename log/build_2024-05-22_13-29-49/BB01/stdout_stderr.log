@@ -1,0 +1,62 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+WARNING: Package name "BB01" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rus/Documents/dev_ws/src/BB01/build/BB01
+-- Install configuration: ""
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/config
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/config/view_bot.rviz
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/config/empty.yaml
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/description
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/description/gazebo_control.xacro
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/description/robot.urdf.xacro
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/description/inertial_macros.xacro
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/description/robot_core.xacro
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/description/lidar.xacro
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/launch
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/launch/rsp.launch.py
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/launch/launch_sim.launch.py
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/worlds
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/worlds/empty.world
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/worlds/obstacles.world
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/ament_index/resource_index/package_run_dependencies/BB01
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/ament_index/resource_index/parent_prefix_path/BB01
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/environment/ament_prefix_path.sh
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/environment/ament_prefix_path.dsv
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/environment/path.sh
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/environment/path.dsv
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/local_setup.bash
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/local_setup.sh
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/local_setup.zsh
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/local_setup.dsv
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/package.dsv
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/ament_index/resource_index/packages/BB01
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/cmake/BB01Config.cmake
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/cmake/BB01Config-version.cmake
+-- Installing: /home/rus/Documents/dev_ws/src/BB01/install/BB01/share/BB01/package.xml
